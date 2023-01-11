@@ -1,0 +1,11 @@
+#fun fact I don't know what I'm doing! ;S
+print('eeeeeeeee  eeeeeeee')
+print('e          e       ')
+print('e          e       ')
+print('e          e       ')
+print('eeeee      eeeee   ')
+print('e          e       ')
+print('e          e       ')
+print('e          e       ')
+print('e          e       ')
+print('eeeeeeeee  e       ')

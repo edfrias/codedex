@@ -1,0 +1,5 @@
+print('Date: 13/10')
+print('Right now I feel very sleepy (thanks Emma)')
+print('I want to learn to code with python')
+print('Hey, go nuts')
+print('(Ծ‸ Ծ)')
